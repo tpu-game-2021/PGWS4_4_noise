@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: 5 Alpha Clip Mat
-  m_Shader: {fileID: -6465566751694194690, guid: 5e3ac64586dc7f64c8a214bf3a5f7f9e, type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: 6007641798bce854bb3cf8fe76b13b50, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
