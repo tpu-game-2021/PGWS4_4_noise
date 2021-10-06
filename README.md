@@ -15,13 +15,13 @@
 
 ![結果画像7](result7.gif)
 
-![結果画像](result.gif)
+![結果画像](myGIF.gif)
 
-![シェーダグラフ](node_graph.png)
+![シェーダグラフ](myGraphNode.png)
 
 # 自分なりに変更した点
--
--
+- Fresnelエフェクト利用、エミッション
+- Voronoiノイズを利用したシェーダー
 -
 
 # 進め方
