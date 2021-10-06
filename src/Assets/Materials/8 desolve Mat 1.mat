@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: 7 desolve Mat 1
-  m_Shader: {fileID: -6465566751694194690, guid: 920fa5cd58daa6743839c263151471f5, type: 3}
+  m_Name: 8 desolve Mat 1
+  m_Shader: {fileID: -6465566751694194690, guid: 321bcaf162f62d54c83190c4c4466830, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -105,7 +105,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - Vector1_c476e158802d4b93b76748226b6efaaa: 0.579
+    - Vector1_c476e158802d4b93b76748226b6efaaa: 0
     - Vector1_de1950aec7724618b0035b2708c465ef: 0
     - _AlphaClip: 0
     - _Blend: 0
