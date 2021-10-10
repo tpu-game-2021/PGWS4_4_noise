@@ -17,7 +17,7 @@
 
 ![結果画像](result.gif.gif)
 
-![シェーダグラフ](node_graph.png)
+![シェーダグラフ](node_graph.png.png)
 
 # 自分なりに変更した点
 -Gradient Noiseの値を変更しマテリアルで見た時に独特の模様に見えるようにしました。
