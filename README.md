@@ -15,7 +15,7 @@
 
 ![結果画像7](result7.gif)
 
-![結果画像](result.gif)
+![結果画像](result2.gif)
 
 ![シェーダグラフ](node_graph.png)
 
