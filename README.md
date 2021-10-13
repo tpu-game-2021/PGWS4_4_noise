@@ -15,9 +15,9 @@
 
 ![結果画像7](result7.gif)
 
-![結果画像](result.gif)
+![結果画像](arth.gif)
 
-![シェーダグラフ](node_graph.png)
+![シェーダグラフ](node4.png)
 
 # 自分なりに変更した点
 -
